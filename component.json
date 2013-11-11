@@ -1,0 +1,13 @@
+{
+  "name": "ct-reset-eric-meyer",
+  "repo": "onclickstudios/ct-reset-eric-meyer",
+  "description": "CSS reset (via Eric Meyer's \"2.0\") theme component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "ct-reset-eric-meyer.css"
+  ]
+}
